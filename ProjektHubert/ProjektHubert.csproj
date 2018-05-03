@@ -108,13 +108,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\AvenyLogo.png" />
-    <Content Include="Database\HubertDb.ldf">
-      <DependentUpon>HubertDb.mdf</DependentUpon>
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Database\HubertDb.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
